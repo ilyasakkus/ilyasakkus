@@ -14,7 +14,7 @@ I'm a passionate SaaS Developer and TypeScript enthusiast, specializing in moder
 - **Frameworks:** React, Next.js, Vue.js
 - **Languages:** TypeScript, JavaScript
 - **Styling:** Tailwind CSS, CSS3, SASS
-- **State Management:** Redux, Context API
+- **State Management:** Redux, Context API, React Query
 
 ### Mobile Development
 - **Frameworks:** React Native
@@ -22,15 +22,17 @@ I'm a passionate SaaS Developer and TypeScript enthusiast, specializing in moder
 - **Tools:** Xcode, CocoaPods
 
 ### Backend Development
-- **Languages:** PHP (Moodle Core)
-- **Databases:** MySQL, PostgreSQL
+- **Languages:** PHP (Moodle Core), Node.JS, Kotlin, JAVA
+- **Databases:** MySQL, PostgreSQL, MongoDB, Firebase
 - **APIs:** RESTful, GraphQL
 
 ### DevOps & Tools
 - **Version Control:** Git, GitHub
 - **CI/CD:** GitHub Actions
 - **Containerization:** Docker
-- **Cloud Services:** AWS, Vercel
+- **Cloud Services:** AWS, Vercel, CloudFlare
+- **E2E Test:** Cypress
+- **Localization:** i18n
 
 ## 🌟 Featured Projects
 
