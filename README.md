@@ -44,12 +44,6 @@ A real-time face swap application optimized for Apple Silicon (M1/M2/M3) with OB
 - Low latency for live streaming
 
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ilyasakkus&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyasakkus&layout=compact&theme=radical)
-
 ## 🏆 Achievements
 
 - Developed and maintained multiple production-grade applications
