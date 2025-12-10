@@ -43,26 +43,6 @@ A real-time face swap application optimized for Apple Silicon (M1/M2/M3) with OB
 - Optimized for Apple Silicon
 - Low latency for live streaming
 
-### [Night Pharmacy](https://github.com/ilyasakkus/night-pharmacy)
-A JavaScript-based web application for 24-hour pharmacies.
-- Real-time pharmacy location tracking
-- Interactive map integration
-- Responsive design
-- API integration
-
-### [Vue Admin](https://github.com/ilyasakkus/vue-admin)
-A comprehensive admin panel built with Vue.js.
-- Modern dashboard interface
-- Role-based access control
-- Real-time data visualization
-- RESTful API integration
-
-### [Anything LLM](https://github.com/ilyasakkus/anything-llm)
-A desktop & Docker AI application with built-in RAG and AI agents.
-- Local LLM deployment
-- Document processing
-- AI agent integration
-- Docker containerization
 
 ## 📊 GitHub Statistics
 
